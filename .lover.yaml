@@ -1,0 +1,7 @@
+name: eve
+description: A collection of various computer science visualizations
+author: jerluc
+license: Apache
+loveVersion: 0.10.1
+targetPlatforms:
+- osx
